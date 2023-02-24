@@ -1,6 +1,6 @@
 #!/bin/bash
 
-	echo "Hi"
-	echo "present date is `date`"
-	echo "User in the server is `whoami`"
-	echo "Current working direcotry `pwd`"
+	echo "Hi, good morning"
+	echo "today's date is `date`"
+	echo "User name is `whoami`"
+	echo "present direcotry `pwd`"
