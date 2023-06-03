@@ -2,7 +2,8 @@
 
 set-x
 
-	echo "Hello"
+        echo "Hello"
 	echo "Current date is `date`"
 	echo "User is `whoami`"
 	echo "Current direcotry `pwd`"
+	echo "jb-repo"
